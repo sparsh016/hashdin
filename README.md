@@ -77,18 +77,10 @@ Edit
 npm start
 Vue Version:
 Create app with Vite:
-
-bash
-Copy
-Edit
 npm create vite@latest image-smoothing-vue -- --template vue
 cd image-smoothing-vue
 npm install
 Replace src/App.vue with the provided App.vue code
 
 Run:
-
-bash
-Copy
-Edit
 npm run dev
